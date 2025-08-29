@@ -1,3 +1,5 @@
+Due to limited time availability, I was able to complete Task 1: Decoding GPS data (in UBX format) from the u-blox receiver
+
 Task 1 Summary – Decoding GPS Data (UBX Format)
 
 Task Statement:
